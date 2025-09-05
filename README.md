@@ -16,3 +16,5 @@ Este repositório contém um material sobre POO em Python, organizado em módulo
 
 ---
 ✨ **Dica:** Leia os capítulos na ordem para construir um aprendizado progressivo.
+
+*Feio com ❤️ pelo professor Lucas*
